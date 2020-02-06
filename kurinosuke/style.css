@@ -212,7 +212,7 @@ section {
     object-fit: cover;
 }
 
-.recruit-img::after{
+.recruit-img::after {
     content: "";
     position: absolute;
     width: 80%;
@@ -246,7 +246,7 @@ section {
 }
 
 /*============= footer =============*/
-footer .content-wrapper{
+footer .content-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
